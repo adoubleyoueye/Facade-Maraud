@@ -1,4 +1,6 @@
-# Find Faces
+# Find Faces 
+
+![face](https://i.imgur.com/jPiVY1u.png)
 
 ## Outcomes
 - use OpenCV to detect faces
