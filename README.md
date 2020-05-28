@@ -1,6 +1,5 @@
 # Façade Marauder
 
-![face](https://i.imgur.com/jPiVY1u.png)
 
 Search through images looking for the occurrences of keywords and faces.
 E.g. if you search for "lemons" it will return a contact sheet of all of the faces which were located on the image page which mentions "lemons"
